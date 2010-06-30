@@ -1,0 +1,43 @@
+Removed Pin From Net: NetName=SIVD Pin=C2-1
+Removed Pin From Net: NetName=GND Pin=C2-2
+Added Component: Designator=C?(CAPC3225M)
+Added Component: Designator=C?(CAPC3225M)
+Added Component: Designator=J?(ST-3150-5N)
+Added Component: Designator=R?(RESC2012L)
+Added Component: Designator=R?(RESC2012L)
+Added Pin To Net: NetName=NetC?_2 Pin=C?-2
+Added Pin To Net: NetName=NetC?_2 Pin=R?-1
+Added Net: Name=NetC?_2
+Added Pin To Net: NetName=NetJ?_1 Pin=J?-1
+Added Pin To Net: NetName=NetJ?_1 Pin=J?-1A
+Added Pin To Net: NetName=NetJ?_1 Pin=J?-1B
+Added Net: Name=NetJ?_1
+Added Pin To Net: NetName=NetJ?_2 Pin=J?-2
+Added Pin To Net: NetName=NetJ?_2 Pin=J?-2A
+Added Pin To Net: NetName=NetJ?_2 Pin=J?-2B
+Added Pin To Net: NetName=NetJ?_2 Pin=J?-5
+Added Pin To Net: NetName=NetJ?_2 Pin=J?-5A
+Added Pin To Net: NetName=NetJ?_2 Pin=J?-5B
+Added Pin To Net: NetName=NetJ?_2 Pin=R?-2
+Added Net: Name=NetJ?_2
+Added Pin To Net: NetName=NetJ?_3 Pin=J?-3
+Added Pin To Net: NetName=NetJ?_3 Pin=J?-3A
+Added Pin To Net: NetName=NetJ?_3 Pin=J?-3B
+Added Pin To Net: NetName=NetJ?_3 Pin=J?-4
+Added Pin To Net: NetName=NetJ?_3 Pin=J?-4A
+Added Pin To Net: NetName=NetJ?_3 Pin=J?-4B
+Added Pin To Net: NetName=NetJ?_3 Pin=R?-2
+Added Net: Name=NetJ?_3
+Added Pin To Net: NetName=SPKRL Pin=C?-1
+Added Net: Name=SPKRL
+Added Pin To Net: NetName=SPKRR Pin=C?-1
+Added Net: Name=SPKRR
+Added Member To Class: ClassName=Audio Member=Component C3 Cap Pol3
+Added Member To Class: ClassName=Audio Member=Component C? Cap Pol3
+Added Member To Class: ClassName=Audio Member=Component C? Cap Pol3
+Added Member To Class: ClassName=Audio Member=Component J? Phonejack Stereo SW
+Added Member To Class: ClassName=Audio Member=Component R1 Res Semi
+Added Member To Class: ClassName=Audio Member=Component R? Res Semi
+Added Member To Class: ClassName=Audio Member=Component R? Res Semi
+Added Member To Class: ClassName=Audio Member=Component U1 DSPIC33FJ128GP802-I/SO
+Added Room: Name=Audio

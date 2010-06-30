@@ -1,0 +1,8 @@
+Added Pin To Net: NetName=OE Pin=U1-2
+Added Pin To Net: NetName=A Pin=U1-3
+Added Pin To Net: NetName=CLK Pin=U1-6
+Added Pin To Net: NetName=STROBE Pin=U1-7
+Added Pin To Net: NetName=R Pin=U1-11
+Added Pin To Net: NetName=B Pin=U1-12
+Added Pin To Net: NetName=CANTX Pin=U1-17
+Added Pin To Net: NetName=CANRX Pin=U1-18

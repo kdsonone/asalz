@@ -1,0 +1,45 @@
+Change Component Footprint: Designator=C14 Old Footprint=CAPC3225M New Footprint=CAPC2012L
+Added Component: Designator=C19(CAPC2012L)
+Added Component: Designator=D2(DSO-F2/D6.1)
+Added Component: Designator=D3(DSO-F2/D6.1)
+Added Component: Designator=J3(DOMINO SMALL 2 PIN_REV2)
+Added Component: Designator=J4(DOMINO SMALL 2 PIN_REV2)
+Added Component: Designator=P6(RESC2012M)
+Added Component: Designator=R8(RESC2012M)
+Added Component: Designator=R9(RESC2012M)
+Added Component: Designator=R10(RESC2012M)
+Added Pin To Net: NetName=5V Pin=C19-1
+Added Pin To Net: NetName=GND Pin=C19-2
+Added Pin To Net: NetName=5V Pin=R9-1
+Added Pin To Net: NetName=5V Pin=R10-1
+Added Pin To Net: NetName=CANRX Pin=D3-2
+Added Net: Name=CANRX
+Added Pin To Net: NetName=CANTX Pin=D2-2
+Added Net: Name=CANTX
+Added Pin To Net: NetName=NetD2_1 Pin=D2-1
+Added Pin To Net: NetName=NetD2_1 Pin=R9-2
+Added Net: Name=NetD2_1
+Added Pin To Net: NetName=NetD3_1 Pin=D3-1
+Added Pin To Net: NetName=NetD3_1 Pin=R10-2
+Added Net: Name=NetD3_1
+Added Pin To Net: NetName=NetJ3_1 Pin=J3-1
+Added Pin To Net: NetName=NetJ3_1 Pin=J4-1
+Added Pin To Net: NetName=NetJ3_1 Pin=R8-1
+Added Net: Name=NetJ3_1
+Added Pin To Net: NetName=NetJ3_2 Pin=J3-2
+Added Pin To Net: NetName=NetJ3_2 Pin=J4-2
+Added Pin To Net: NetName=NetJ3_2 Pin=P6-1
+Added Net: Name=NetJ3_2
+Added Pin To Net: NetName=NetP6_2 Pin=P6-2
+Added Pin To Net: NetName=NetP6_2 Pin=R8-2
+Added Net: Name=NetP6_2
+Added Member To Class: ClassName=Audio Member=Component C19 0.1
+Added Member To Class: ClassName=Audio Member=Component D2 LED TX
+Added Member To Class: ClassName=Audio Member=Component D3 LED RX
+Added Member To Class: ClassName=Audio Member=Component J3 CAN HEADER 2
+Added Member To Class: ClassName=Audio Member=Component J4 CAN HEADER 1
+Added Member To Class: ClassName=Audio Member=Component P6 Header 2H
+Added Member To Class: ClassName=Audio Member=Component R8 120
+Added Member To Class: ClassName=Audio Member=Component R9 470
+Added Member To Class: ClassName=Audio Member=Component R10 470
+Added Room: Name=Audio

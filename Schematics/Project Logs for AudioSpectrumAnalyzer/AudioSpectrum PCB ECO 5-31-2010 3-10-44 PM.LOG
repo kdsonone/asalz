@@ -1,0 +1,5 @@
+Change Component Footprint: Designator=C13 Old Footprint=TC6032-2412 New Footprint=CAPC3225M
+Added Component: Designator=C12(CAPC3225M)
+Added Pin To Net: NetName=5V Pin=C12-1
+Added Pin To Net: NetName=GND Pin=C12-2
+Added Member To Class: ClassName=Audio Member=Component C12 Cap Pol3

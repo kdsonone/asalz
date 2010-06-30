@@ -1,0 +1,77 @@
+Removed Pin From Net: NetName=SIVD Pin=R2-1
+Removed Pin From Net: NetName=R Pin=U1-11
+Removed Pin From Net: NetName=B Pin=U1-12
+Removed Pin From Net: NetName=SIVD Pin=U1-13
+Removed Pin From Net: NetName=CANTX Pin=U1-17
+Removed Pin From Net: NetName=CANRX Pin=U1-18
+Removed Pin From Net: NetName=SI_SCLK Pin=U1-22
+Removed Pin From Net: NetName=SI_CMLK Pin=U1-23
+Removed Pin From Net: NetName=SI_FSYNC Pin=U1-24
+Removed Pin From Net: NetName=SI_SDO Pin=U1-25
+Removed Pin From Net: NetName=SIVD Pin=U1-28
+Added Component: Designator=BT1(BAT-2)
+Added Component: Designator=C20(CAPC2012L)
+Added Component: Designator=C21(CAPC2012L)
+Added Component: Designator=D4(DIO10.46-5.3x2.8)
+Added Component: Designator=D5(DIO10.46-5.3x2.8)
+Added Component: Designator=LS1(PIN2)
+Added Component: Designator=Q1(SOT95P240-3M)
+Added Component: Designator=R11(RESC2012L)
+Added Component: Designator=U5(U2E)
+Added Component: Designator=Y2(BCY-W2/D2.1)
+Added Pin To Net: NetName=GND Pin=BT1-2
+Added Pin To Net: NetName=GND Pin=C20-2
+Added Pin To Net: NetName=GND Pin=C21-2
+Added Pin To Net: NetName=SIVD Pin=D4-1
+Added Pin To Net: NetName=GND Pin=LS1-2
+Added Pin To Net: NetName=5V Pin=Q1-3
+Added Pin To Net: NetName=R Pin=U1-14
+Added Pin To Net: NetName=B Pin=U1-15
+Added Pin To Net: NetName=CANTX Pin=U1-16
+Added Pin To Net: NetName=CANRX Pin=U1-17
+Added Pin To Net: NetName=SI_CMLK Pin=U1-22
+Added Pin To Net: NetName=SI_FSYNC Pin=U1-23
+Added Pin To Net: NetName=SI_SDO Pin=U1-24
+Added Pin To Net: NetName=PGD Pin=U5-3
+Added Pin To Net: NetName=PGC Pin=U5-4
+Added Pin To Net: NetName=SIVD Pin=U5-7
+Added Pin To Net: NetName=GND Pin=U5-8
+Added Pin To Net: NetName=IR Pin=P3-3
+Added Pin To Net: NetName=IR Pin=U1-18
+Added Net: Name=IR
+Added Pin To Net: NetName=NetBT1_1 Pin=BT1-1
+Added Pin To Net: NetName=NetBT1_1 Pin=D5-1
+Added Net: Name=NetBT1_1
+Added Pin To Net: NetName=NetLS1_1 Pin=LS1-1
+Added Pin To Net: NetName=NetLS1_1 Pin=Q1-2
+Added Net: Name=NetLS1_1
+Added Pin To Net: NetName=NetQ1_1 Pin=Q1-1
+Added Pin To Net: NetName=NetQ1_1 Pin=R11-2
+Added Net: Name=NetQ1_1
+Added Pin To Net: NetName=NetR11_1 Pin=R11-1
+Added Pin To Net: NetName=NetR11_1 Pin=U1-25
+Added Net: Name=NetR11_1
+Added Pin To Net: NetName=PICVDD Pin=D4-2
+Added Pin To Net: NetName=PICVDD Pin=D5-2
+Added Pin To Net: NetName=PICVDD Pin=R2-1
+Added Pin To Net: NetName=PICVDD Pin=U1-13
+Added Pin To Net: NetName=PICVDD Pin=U1-28
+Added Net: Name=PICVDD
+Added Pin To Net: NetName=SOSCI Pin=C20-1
+Added Pin To Net: NetName=SOSCI Pin=U1-11
+Added Pin To Net: NetName=SOSCI Pin=Y2-1
+Added Net: Name=SOSCI
+Added Pin To Net: NetName=SOSCO Pin=C21-1
+Added Pin To Net: NetName=SOSCO Pin=U1-12
+Added Pin To Net: NetName=SOSCO Pin=Y2-2
+Added Net: Name=SOSCO
+Added Member To Class: ClassName=Audio Member=Component BT1 Battery
+Added Member To Class: ClassName=Audio Member=Component C20 Cap Pol3
+Added Member To Class: ClassName=Audio Member=Component C21 Cap Pol3
+Added Member To Class: ClassName=Audio Member=Component D4 D Schottky
+Added Member To Class: ClassName=Audio Member=Component D5 D Schottky
+Added Member To Class: ClassName=Audio Member=Component LS1 Speaker
+Added Member To Class: ClassName=Audio Member=Component Q1 QNPN
+Added Member To Class: ClassName=Audio Member=Component R11 Res Semi
+Added Member To Class: ClassName=Audio Member=Component U5 U2E
+Added Member To Class: ClassName=Audio Member=Component Y2 4MHz

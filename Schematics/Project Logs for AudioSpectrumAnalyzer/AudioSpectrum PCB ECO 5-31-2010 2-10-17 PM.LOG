@@ -1,0 +1,22 @@
+Removed Pin From Net: NetName=NetC?_2 Pin=C?-2
+Removed Pin From Net: NetName=NetC?_2 Pin=R?-1
+Change Component Designator: OldDesignator=C? NewDesignator=C6
+Change Component Designator: OldDesignator=C? NewDesignator=C7
+Change Component Designator: OldDesignator=J? NewDesignator=J3
+Change Component Designator: OldDesignator=R? NewDesignator=R5
+Change Component Designator: OldDesignator=R? NewDesignator=R6
+Added Pin To Net: NetName=SPKRL Pin=C6-2
+Added Pin To Net: NetName=NetC?_2 Pin=C7-1
+Added Pin To Net: NetName=SPKRL Pin=R5-1
+Added Pin To Net: NetName=NetJ?_2 Pin=R5-2
+Change Net Name : Old Net Name=NetC?_2 New Net Name=SPKRR
+Change Net Name : Old Net Name=NetJ?_1 New Net Name=NetJ3_1
+Change Net Name : Old Net Name=NetJ?_2 New Net Name=NetJ3_2
+Change Net Name : Old Net Name=NetJ?_3 New Net Name=NetJ3_3
+Change Net Name : Old Net Name=SPKRL New Net Name=NetC6_2
+Change Net Name : Old Net Name=SPKRR New Net Name=SPKRL
+Added Pin To Net: NetName=NetC7_2 Pin=C7-2
+Added Pin To Net: NetName=NetC7_2 Pin=R6-1
+Added Net: Name=NetC7_2
+Added Member To Class: ClassName=Audio Member=Component C6 Cap Pol3
+Added Member To Class: ClassName=Audio Member=Component R6 Res Semi
