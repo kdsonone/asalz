@@ -1,0 +1,38 @@
+Removed Pin From Net: NetName=A Pin=P2-2
+Removed Pin From Net: NetName=B Pin=P2-4
+Removed Pin From Net: NetName=A Pin=U1-3
+Removed Pin From Net: NetName=CLK Pin=U1-6
+Removed Pin From Net: NetName=STROBE Pin=U1-7
+Removed Pin From Net: NetName=B Pin=U1-15
+Removed Pin From Net: NetName=CANTX Pin=U1-16
+Removed Pin From Net: NetName=CANRX Pin=U1-17
+Removed Pin From Net: NetName=IR Pin=U1-18
+Removed Pin From Net: NetName=SI_RESET Pin=U1-21
+Removed Pin From Net: NetName=SI_CMLK Pin=U1-22
+Removed Pin From Net: NetName=SI_FSYNC Pin=U1-23
+Added Component: Designator=P7(HDR1X8)
+Added Pin To Net: NetName=5V Pin=P7-1
+Added Pin To Net: NetName=OE Pin=P7-2
+Added Pin To Net: NetName=NC Pin=P7-5
+Added Pin To Net: NetName=CLK Pin=P7-6
+Added Pin To Net: NetName=STROBE Pin=P7-7
+Added Pin To Net: NetName=R Pin=P7-8
+Added Pin To Net: NetName=SI_RESET Pin=U1-3
+Added Pin To Net: NetName=SI_FSYNC Pin=U1-6
+Added Pin To Net: NetName=SI_CMLK Pin=U1-7
+Added Pin To Net: NetName=A Pin=U1-15
+Added Pin To Net: NetName=B Pin=U1-16
+Added Pin To Net: NetName=IR Pin=U1-17
+Added Pin To Net: NetName=STROBE Pin=U1-18
+Added Pin To Net: NetName=CLK Pin=U1-21
+Added Pin To Net: NetName=CANRX Pin=U1-22
+Added Pin To Net: NetName=CANTX Pin=U1-23
+Change Net Name : Old Net Name=SI_CMLK New Net Name=SI_MCLK
+Added Pin To Net: NetName=NetP2_2 Pin=P2-2
+Added Pin To Net: NetName=NetP2_2 Pin=P7-3
+Added Net: Name=NetP2_2
+Added Pin To Net: NetName=NetP2_4 Pin=P2-4
+Added Pin To Net: NetName=NetP2_4 Pin=P7-4
+Added Net: Name=NetP2_4
+Added Member To Class: ClassName=Audio Member=Component P7 Header 8
+Added Room: Name=Audio

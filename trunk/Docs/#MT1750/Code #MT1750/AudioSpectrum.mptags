@@ -1,0 +1,147 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.5.4	//
+!_TAG_REVISION_NAME	MCHPTags	//
+!_TAG_REVISION_VERSION	6.0.1	//
+ADC_Init	E:\Sync\Audio Spectrum Analyzer\Docs\#MT1750\Code #MT1750\ADC.c	34;"	p	line:34	file:	signature:(char mode)
+ADC_Init	E:\Sync\Audio Spectrum Analyzer\Docs\#MT1750\Code #MT1750\ADC.c	44;"	f	line:44	signature:(char mode)
+ADC_Init	E:\Sync\Audio Spectrum Analyzer\Docs\#MT1750\Code #MT1750\Audio Spectrum.c	81;"	p	line:81	file:	signature:(char mode)
+Bar	E:\Sync\Audio Spectrum Analyzer\Docs\#MT1750\Code #MT1750\Audio Spectrum.c	60;"	v	line:60
+BarDelay2::400	E:\Sync\Audio Spectrum Analyzer\Docs\#MT1750\Code #MT1750\common.h	16;"	d	line:16
+BarDelay::200	E:\Sync\Audio Spectrum Analyzer\Docs\#MT1750\Code #MT1750\common.h	15;"	d	line:15
+CODE_PROT_OFF	E:\Sync\Audio Spectrum Analyzer\Docs\#MT1750\Code #MT1750\Audio Spectrum.c	38;"	v	line:38
+ControlBit1::PORTCbits.RC13	E:\Sync\Audio Spectrum Analyzer\Docs\#MT1750\Code #MT1750\common.h	90;"	d	line:90
+ControlBit2::PORTCbits.RC14	E:\Sync\Audio Spectrum Analyzer\Docs\#MT1750\Code #MT1750\common.h	91;"	d	line:91
+ConvertToComplex	E:\Sync\Audio Spectrum Analyzer\Docs\#MT1750\Code #MT1750\Audio Spectrum.c	186;"	f	line:186
+ConvertToComplex	E:\Sync\Audio Spectrum Analyzer\Docs\#MT1750\Code #MT1750\Audio Spectrum.c	78;"	p	line:78	file:	signature:(void)
+Filter_Bank	E:\Sync\Audio Spectrum Analyzer\Docs\#MT1750\Code #MT1750\Audio Spectrum.c	204;"	f	line:204	signature:(unsigned int Samplesflag)
+Filter_Bank	E:\Sync\Audio Spectrum Analyzer\Docs\#MT1750\Code #MT1750\Audio Spectrum.c	86;"	p	line:86	file:	signature:(unsigned int Samplesflag)
+FindClimbingBars_Rain	E:\Sync\Audio Spectrum Analyzer\Docs\#MT1750\Code #MT1750\Audio Spectrum.c	1407;"	f	line:1407	signature:(void)
+FindClimbingBars_Rain	E:\Sync\Audio Spectrum Analyzer\Docs\#MT1750\Code #MT1750\Audio Spectrum.c	94;"	p	line:94	file:	signature:(void)
+FindPeakHold	E:\Sync\Audio Spectrum Analyzer\Docs\#MT1750\Code #MT1750\Audio Spectrum.c	1057;"	f	line:1057	signature:(void)
+FindPeakHold	E:\Sync\Audio Spectrum Analyzer\Docs\#MT1750\Code #MT1750\Audio Spectrum.c	90;"	p	line:90	file:	signature:(void)
+FindSnapToPeak	E:\Sync\Audio Spectrum Analyzer\Docs\#MT1750\Code #MT1750\Audio Spectrum.c	1266;"	f	line:1266	signature:(void)
+FindSnapToPeak	E:\Sync\Audio Spectrum Analyzer\Docs\#MT1750\Code #MT1750\Audio Spectrum.c	91;"	p	line:91	file:	signature:(void)
+HS2_PLL16	E:\Sync\Audio Spectrum Analyzer\Docs\#MT1750\Code #MT1750\Audio Spectrum.c	30;"	v	line:30
+HammingFactors	E:\Sync\Audio Spectrum Analyzer\Docs\#MT1750\Code #MT1750\Audio Spectrum.c	53;"	v	line:53
+LOG2_BLOCK_LENGTH::8	E:\Sync\Audio Spectrum Analyzer\Docs\#MT1750\Code #MT1750\common.h	23;"	d	line:23
+NUMSAMP::256	E:\Sync\Audio Spectrum Analyzer\Docs\#MT1750\Code #MT1750\common.h	22;"	d	line:22
+PWRT_OFF	E:\Sync\Audio Spectrum Analyzer\Docs\#MT1750\Code #MT1750\Audio Spectrum.c	36;"	v	line:36
+PeakHold	E:\Sync\Audio Spectrum Analyzer\Docs\#MT1750\Code #MT1750\Audio Spectrum.c	64;"	v	line:64
+PeakHold_timeout::500	E:\Sync\Audio Spectrum Analyzer\Docs\#MT1750\Code #MT1750\common.h	17;"	d	line:17
+Power_Vector	E:\Sync\Audio Spectrum Analyzer\Docs\#MT1750\Code #MT1750\Audio Spectrum.c	56;"	v	line:56
+Rain	E:\Sync\Audio Spectrum Analyzer\Docs\#MT1750\Code #MT1750\Audio Spectrum.c	65;"	v	line:65
+Rain_Timeout::500	E:\Sync\Audio Spectrum Analyzer\Docs\#MT1750\Code #MT1750\common.h	19;"	d	line:19
+SAMPCOUNT1::3687	E:\Sync\Audio Spectrum Analyzer\Docs\#MT1750\Code #MT1750\common.h	11;"	d	line:11
+SAMPCOUNT2::339	E:\Sync\Audio Spectrum Analyzer\Docs\#MT1750\Code #MT1750\common.h	12;"	d	line:12
+SamplesReadyFlag	E:\Sync\Audio Spectrum Analyzer\Docs\#MT1750\Code #MT1750\Audio Spectrum.c	70;"	v	line:70
+Set_Y	E:\Sync\Audio Spectrum Analyzer\Docs\#MT1750\Code #MT1750\Audio Spectrum.c	101;"	p	line:101	file:	signature:(unsigned int x)
+Set_Y	E:\Sync\Audio Spectrum Analyzer\Docs\#MT1750\Code #MT1750\Audio Spectrum.c	1020;"	f	line:1020	signature:(unsigned int x)
+Set_Y_Peak	E:\Sync\Audio Spectrum Analyzer\Docs\#MT1750\Code #MT1750\Audio Spectrum.c	102;"	p	line:102	file:	signature:(unsigned int z)
+Set_Y_Peak	E:\Sync\Audio Spectrum Analyzer\Docs\#MT1750\Code #MT1750\Audio Spectrum.c	1082;"	f	line:1082	signature:(unsigned int z)
+Set_Y_Rain	E:\Sync\Audio Spectrum Analyzer\Docs\#MT1750\Code #MT1750\Audio Spectrum.c	104;"	p	line:104	file:	signature:(unsigned int j)
+Set_Y_Rain	E:\Sync\Audio Spectrum Analyzer\Docs\#MT1750\Code #MT1750\Audio Spectrum.c	1349;"	f	line:1349	signature:(unsigned int j)
+Set_Y_SnapTP	E:\Sync\Audio Spectrum Analyzer\Docs\#MT1750\Code #MT1750\Audio Spectrum.c	103;"	p	line:103	file:	signature:(unsigned int n)
+Set_Y_SnapTP	E:\Sync\Audio Spectrum Analyzer\Docs\#MT1750\Code #MT1750\Audio Spectrum.c	1312;"	f	line:1312	signature:(unsigned int n)
+SnapToPeak_Bar	E:\Sync\Audio Spectrum Analyzer\Docs\#MT1750\Code #MT1750\Audio Spectrum.c	66;"	v	line:66
+Snap_To_Peak_Timeout::80	E:\Sync\Audio Spectrum Analyzer\Docs\#MT1750\Code #MT1750\common.h	18;"	d	line:18
+Threshold10::0x0019	E:\Sync\Audio Spectrum Analyzer\Docs\#MT1750\Code #MT1750\common.h	35;"	d	line:35
+Threshold11::0x0021	E:\Sync\Audio Spectrum Analyzer\Docs\#MT1750\Code #MT1750\common.h	36;"	d	line:36
+Threshold12::0x002D	E:\Sync\Audio Spectrum Analyzer\Docs\#MT1750\Code #MT1750\common.h	37;"	d	line:37
+Threshold13::0x003C	E:\Sync\Audio Spectrum Analyzer\Docs\#MT1750\Code #MT1750\common.h	38;"	d	line:38
+Threshold14::0x0051	E:\Sync\Audio Spectrum Analyzer\Docs\#MT1750\Code #MT1750\common.h	39;"	d	line:39
+Threshold15::0x006E	E:\Sync\Audio Spectrum Analyzer\Docs\#MT1750\Code #MT1750\common.h	40;"	d	line:40
+Threshold16::0x0094	E:\Sync\Audio Spectrum Analyzer\Docs\#MT1750\Code #MT1750\common.h	41;"	d	line:41
+Threshold17::0x00C8	E:\Sync\Audio Spectrum Analyzer\Docs\#MT1750\Code #MT1750\common.h	42;"	d	line:42
+Threshold18::0x010E	E:\Sync\Audio Spectrum Analyzer\Docs\#MT1750\Code #MT1750\common.h	43;"	d	line:43
+Threshold19::0x016B	E:\Sync\Audio Spectrum Analyzer\Docs\#MT1750\Code #MT1750\common.h	44;"	d	line:44
+Threshold1::0x0001	E:\Sync\Audio Spectrum Analyzer\Docs\#MT1750\Code #MT1750\common.h	26;"	d	line:26
+Threshold20::0x01EA	E:\Sync\Audio Spectrum Analyzer\Docs\#MT1750\Code #MT1750\common.h	45;"	d	line:45
+Threshold2::0x0002	E:\Sync\Audio Spectrum Analyzer\Docs\#MT1750\Code #MT1750\common.h	27;"	d	line:27
+Threshold3::0x0003	E:\Sync\Audio Spectrum Analyzer\Docs\#MT1750\Code #MT1750\common.h	28;"	d	line:28
+Threshold4::0x0004	E:\Sync\Audio Spectrum Analyzer\Docs\#MT1750\Code #MT1750\common.h	29;"	d	line:29
+Threshold5::0x0005	E:\Sync\Audio Spectrum Analyzer\Docs\#MT1750\Code #MT1750\common.h	30;"	d	line:30
+Threshold6::0x0007	E:\Sync\Audio Spectrum Analyzer\Docs\#MT1750\Code #MT1750\common.h	31;"	d	line:31
+Threshold7::0x000A	E:\Sync\Audio Spectrum Analyzer\Docs\#MT1750\Code #MT1750\common.h	32;"	d	line:32
+Threshold8::0x000E	E:\Sync\Audio Spectrum Analyzer\Docs\#MT1750\Code #MT1750\common.h	33;"	d	line:33
+Threshold9::0x0012	E:\Sync\Audio Spectrum Analyzer\Docs\#MT1750\Code #MT1750\common.h	34;"	d	line:34
+WDT_OFF	E:\Sync\Audio Spectrum Analyzer\Docs\#MT1750\Code #MT1750\Audio Spectrum.c	35;"	v	line:35
+X10::PORTBbits.RB14	E:\Sync\Audio Spectrum Analyzer\Docs\#MT1750\Code #MT1750\common.h	57;"	d	line:57
+X11::PORTBbits.RB13	E:\Sync\Audio Spectrum Analyzer\Docs\#MT1750\Code #MT1750\common.h	58;"	d	line:58
+X12::PORTBbits.RB12	E:\Sync\Audio Spectrum Analyzer\Docs\#MT1750\Code #MT1750\common.h	59;"	d	line:59
+X13::PORTBbits.RB11	E:\Sync\Audio Spectrum Analyzer\Docs\#MT1750\Code #MT1750\common.h	60;"	d	line:60
+X14::PORTBbits.RB10	E:\Sync\Audio Spectrum Analyzer\Docs\#MT1750\Code #MT1750\common.h	61;"	d	line:61
+X15::PORTBbits.RB5	E:\Sync\Audio Spectrum Analyzer\Docs\#MT1750\Code #MT1750\common.h	62;"	d	line:62
+X16::PORTBbits.RB4	E:\Sync\Audio Spectrum Analyzer\Docs\#MT1750\Code #MT1750\common.h	63;"	d	line:63
+X17::PORTBbits.RB3	E:\Sync\Audio Spectrum Analyzer\Docs\#MT1750\Code #MT1750\common.h	64;"	d	line:64
+X18::PORTBbits.RB2	E:\Sync\Audio Spectrum Analyzer\Docs\#MT1750\Code #MT1750\common.h	65;"	d	line:65
+X19::PORTBbits.RB7	E:\Sync\Audio Spectrum Analyzer\Docs\#MT1750\Code #MT1750\common.h	66;"	d	line:66
+X1::PORTDbits.RD8	E:\Sync\Audio Spectrum Analyzer\Docs\#MT1750\Code #MT1750\common.h	48;"	d	line:48
+X20::PORTBbits.RB6	E:\Sync\Audio Spectrum Analyzer\Docs\#MT1750\Code #MT1750\common.h	67;"	d	line:67
+X2::PORTGbits.RG2	E:\Sync\Audio Spectrum Analyzer\Docs\#MT1750\Code #MT1750\common.h	49;"	d	line:49
+X3::PORTGbits.RG3	E:\Sync\Audio Spectrum Analyzer\Docs\#MT1750\Code #MT1750\common.h	50;"	d	line:50
+X4::PORTFbits.RF6	E:\Sync\Audio Spectrum Analyzer\Docs\#MT1750\Code #MT1750\common.h	51;"	d	line:51
+X5::PORTFbits.RF2	E:\Sync\Audio Spectrum Analyzer\Docs\#MT1750\Code #MT1750\common.h	52;"	d	line:52
+X6::PORTFbits.RF5	E:\Sync\Audio Spectrum Analyzer\Docs\#MT1750\Code #MT1750\common.h	53;"	d	line:53
+X7::PORTFbits.RF3	E:\Sync\Audio Spectrum Analyzer\Docs\#MT1750\Code #MT1750\common.h	54;"	d	line:54
+X8::PORTFbits.RF4	E:\Sync\Audio Spectrum Analyzer\Docs\#MT1750\Code #MT1750\common.h	55;"	d	line:55
+X9::PORTBbits.RB15	E:\Sync\Audio Spectrum Analyzer\Docs\#MT1750\Code #MT1750\common.h	56;"	d	line:56
+Y10::PORTDbits.RD7	E:\Sync\Audio Spectrum Analyzer\Docs\#MT1750\Code #MT1750\common.h	78;"	d	line:78
+Y11::PORTDbits.RD6	E:\Sync\Audio Spectrum Analyzer\Docs\#MT1750\Code #MT1750\common.h	79;"	d	line:79
+Y12::PORTDbits.RD5	E:\Sync\Audio Spectrum Analyzer\Docs\#MT1750\Code #MT1750\common.h	80;"	d	line:80
+Y13::PORTDbits.RD4	E:\Sync\Audio Spectrum Analyzer\Docs\#MT1750\Code #MT1750\common.h	81;"	d	line:81
+Y14::PORTDbits.RD3	E:\Sync\Audio Spectrum Analyzer\Docs\#MT1750\Code #MT1750\common.h	82;"	d	line:82
+Y15::PORTDbits.RD2	E:\Sync\Audio Spectrum Analyzer\Docs\#MT1750\Code #MT1750\common.h	83;"	d	line:83
+Y16::PORTDbits.RD1	E:\Sync\Audio Spectrum Analyzer\Docs\#MT1750\Code #MT1750\common.h	84;"	d	line:84
+Y17::PORTDbits.RD0	E:\Sync\Audio Spectrum Analyzer\Docs\#MT1750\Code #MT1750\common.h	85;"	d	line:85
+Y18::PORTDbits.RD11	E:\Sync\Audio Spectrum Analyzer\Docs\#MT1750\Code #MT1750\common.h	86;"	d	line:86
+Y19::PORTDbits.RD10	E:\Sync\Audio Spectrum Analyzer\Docs\#MT1750\Code #MT1750\common.h	87;"	d	line:87
+Y1::PORTGbits.RG6	E:\Sync\Audio Spectrum Analyzer\Docs\#MT1750\Code #MT1750\common.h	69;"	d	line:69
+Y20::PORTDbits.RD9	E:\Sync\Audio Spectrum Analyzer\Docs\#MT1750\Code #MT1750\common.h	88;"	d	line:88
+Y2::PORTGbits.RG15	E:\Sync\Audio Spectrum Analyzer\Docs\#MT1750\Code #MT1750\common.h	70;"	d	line:70
+Y3::PORTGbits.RG13	E:\Sync\Audio Spectrum Analyzer\Docs\#MT1750\Code #MT1750\common.h	71;"	d	line:71
+Y4::PORTGbits.RG12	E:\Sync\Audio Spectrum Analyzer\Docs\#MT1750\Code #MT1750\common.h	72;"	d	line:72
+Y5::PORTGbits.RG14	E:\Sync\Audio Spectrum Analyzer\Docs\#MT1750\Code #MT1750\common.h	73;"	d	line:73
+Y6::PORTGbits.RG0	E:\Sync\Audio Spectrum Analyzer\Docs\#MT1750\Code #MT1750\common.h	74;"	d	line:74
+Y7::PORTGbits.RG1	E:\Sync\Audio Spectrum Analyzer\Docs\#MT1750\Code #MT1750\common.h	75;"	d	line:75
+Y8::PORTFbits.RF1	E:\Sync\Audio Spectrum Analyzer\Docs\#MT1750\Code #MT1750\common.h	76;"	d	line:76
+Y9::PORTFbits.RF0	E:\Sync\Audio Spectrum Analyzer\Docs\#MT1750\Code #MT1750\common.h	77;"	d	line:77
+_ADCInterrupt	E:\Sync\Audio Spectrum Analyzer\Docs\#MT1750\Code #MT1750\ADC.c	117;"	f	line:117	signature:(void)
+_ADCInterrupt	E:\Sync\Audio Spectrum Analyzer\Docs\#MT1750\Code #MT1750\ADC.c	35;"	p	line:35	file:	signature:(void)
+a	E:\Sync\Audio Spectrum Analyzer\Docs\#MT1750\Code #MT1750\Audio Spectrum.c	396;"	l	line:396
+adcPtr	E:\Sync\Audio Spectrum Analyzer\Docs\#MT1750\Code #MT1750\ADC.c	37;"	v	line:37
+add_Elements	E:\Sync\Audio Spectrum Analyzer\Docs\#MT1750\Code #MT1750\Audio Spectrum.c	106;"	p	line:106	file:	signature:(int num, fractional* point)
+add_Elements	E:\Sync\Audio Spectrum Analyzer\Docs\#MT1750\Code #MT1750\Audio Spectrum.c	1249;"	f	line:1249	signature:(int num, fractional* point)
+b	E:\Sync\Audio Spectrum Analyzer\Docs\#MT1750\Code #MT1750\Audio Spectrum.c	396;"	l	line:396
+counter	E:\Sync\Audio Spectrum Analyzer\Docs\#MT1750\Code #MT1750\Audio Spectrum.c	67;"	v	line:67
+counter2	E:\Sync\Audio Spectrum Analyzer\Docs\#MT1750\Code #MT1750\Audio Spectrum.c	68;"	v	line:68
+display	E:\Sync\Audio Spectrum Analyzer\Docs\#MT1750\Code #MT1750\Audio Spectrum.c	413;"	f	line:413	signature:(unsigned int dis_mode)
+display	E:\Sync\Audio Spectrum Analyzer\Docs\#MT1750\Code #MT1750\Audio Spectrum.c	99;"	p	line:99	file:	signature:(unsigned int dis_mode)
+display_mode	E:\Sync\Audio Spectrum Analyzer\Docs\#MT1750\Code #MT1750\Audio Spectrum.c	174;"	p	line:174	file:
+display_mode	E:\Sync\Audio Spectrum Analyzer\Docs\#MT1750\Code #MT1750\Audio Spectrum.c	393;"	f	line:393	signature:(void)
+display_mode	E:\Sync\Audio Spectrum Analyzer\Docs\#MT1750\Code #MT1750\Audio Spectrum.c	96;"	p	line:96	file:	signature:(void)
+i	E:\Sync\Audio Spectrum Analyzer\Docs\#MT1750\Code #MT1750\ADC.c	122;"	l	line:122
+i	E:\Sync\Audio Spectrum Analyzer\Docs\#MT1750\Code #MT1750\Audio Spectrum.c	1059;"	l	line:1059
+i	E:\Sync\Audio Spectrum Analyzer\Docs\#MT1750\Code #MT1750\Audio Spectrum.c	1251;"	l	line:1251
+i	E:\Sync\Audio Spectrum Analyzer\Docs\#MT1750\Code #MT1750\Audio Spectrum.c	1269;"	l	line:1269
+i	E:\Sync\Audio Spectrum Analyzer\Docs\#MT1750\Code #MT1750\Audio Spectrum.c	1411;"	l	line:1411
+i	E:\Sync\Audio Spectrum Analyzer\Docs\#MT1750\Code #MT1750\Audio Spectrum.c	188;"	l	line:188
+i	E:\Sync\Audio Spectrum Analyzer\Docs\#MT1750\Code #MT1750\Audio Spectrum.c	251;"	l	line:251
+i	E:\Sync\Audio Spectrum Analyzer\Docs\#MT1750\Code #MT1750\Audio Spectrum.c	416;"	l	line:416
+initializeIO	E:\Sync\Audio Spectrum Analyzer\Docs\#MT1750\Code #MT1750\Audio Spectrum.c	291;"	f	line:291	signature:(void)
+initializeIO	E:\Sync\Audio Spectrum Analyzer\Docs\#MT1750\Code #MT1750\Audio Spectrum.c	92;"	p	line:92	file:	signature:(void)
+initialize_rest	E:\Sync\Audio Spectrum Analyzer\Docs\#MT1750\Code #MT1750\Audio Spectrum.c	249;"	f	line:249	signature:(void)
+initialize_rest	E:\Sync\Audio Spectrum Analyzer\Docs\#MT1750\Code #MT1750\Audio Spectrum.c	93;"	p	line:93	file:	signature:(void)
+inputSignal	E:\Sync\Audio Spectrum Analyzer\Docs\#MT1750\Code #MT1750\Audio Spectrum.c	45;"	v	line:45
+main	E:\Sync\Audio Spectrum Analyzer\Docs\#MT1750\Code #MT1750\Audio Spectrum.c	113;"	f	line:113	signature:(void)
+main	E:\Sync\Audio Spectrum Analyzer\Docs\#MT1750\Code #MT1750\Audio Spectrum.c	80;"	p	line:80	file:	signature:(void)
+off::0	E:\Sync\Audio Spectrum Analyzer\Docs\#MT1750\Code #MT1750\common.h	94;"	d	line:94
+on::1	E:\Sync\Audio Spectrum Analyzer\Docs\#MT1750\Code #MT1750\common.h	93;"	d	line:93
+p_inputSignal	E:\Sync\Audio Spectrum Analyzer\Docs\#MT1750\Code #MT1750\Audio Spectrum.c	58;"	v	line:58
+slow	E:\Sync\Audio Spectrum Analyzer\Docs\#MT1750\Code #MT1750\Audio Spectrum.c	1268;"	l	line:1268
+slow	E:\Sync\Audio Spectrum Analyzer\Docs\#MT1750\Code #MT1750\Audio Spectrum.c	1410;"	l	line:1410
+sum	E:\Sync\Audio Spectrum Analyzer\Docs\#MT1750\Code #MT1750\Audio Spectrum.c	1252;"	l	line:1252
+twiddleFactors	E:\Sync\Audio Spectrum Analyzer\Docs\#MT1750\Code #MT1750\Audio Spectrum.c	49;"	v	line:49

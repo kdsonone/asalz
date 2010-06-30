@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=NetBT1_1 Pin=BT1-1
+Removed Pin From Net: NetName=GND Pin=BT1-2
+Change Component Footprint: Designator=BT1 Old Footprint=BAT-2 New Footprint=CR2032
+Added Pin To Net: NetName=GND Pin=BT1-1
+Added Pin To Net: NetName=NetBT1_1 Pin=BT1-2
+Change Net Name : Old Net Name=NetBT1_1 New Net Name=NetBT1_2

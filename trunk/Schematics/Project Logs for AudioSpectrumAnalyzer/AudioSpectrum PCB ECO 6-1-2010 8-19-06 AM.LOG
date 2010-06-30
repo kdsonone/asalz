@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=SPKRL Pin=C10-1
+Removed Pin From Net: NetName=SPKRR Pin=C11-1
+Added Pin To Net: NetName=SPKRR Pin=C10-1
+Added Pin To Net: NetName=SPKRL Pin=C11-1

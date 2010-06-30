@@ -1,0 +1,29 @@
+Added Component: Designator=C8(CAPC3225M)
+Added Component: Designator=C9(CAPC2012L)
+Added Component: Designator=C10(CAPC2012L)
+Added Component: Designator=C11(CAPC2012L)
+Added Component: Designator=R7(RESC2012L)
+Added Pin To Net: NetName=GND Pin=C8-2
+Added Pin To Net: NetName=SIVD Pin=C9-1
+Added Pin To Net: NetName=GND Pin=C9-2
+Added Pin To Net: NetName=SIVD Pin=C10-1
+Added Pin To Net: NetName=GND Pin=C10-2
+Added Pin To Net: NetName=SIVD Pin=C11-1
+Added Pin To Net: NetName=GND Pin=C11-2
+Added Pin To Net: NetName=SIVD Pin=R7-1
+Added Pin To Net: NetName=GND Pin=U1-8
+Added Pin To Net: NetName=SIVD Pin=U1-13
+Added Pin To Net: NetName=GND Pin=U1-19
+Added Pin To Net: NetName=GND Pin=U1-27
+Added Pin To Net: NetName=SIVD Pin=U1-28
+Added Pin To Net: NetName=NetC8_1 Pin=C8-1
+Added Pin To Net: NetName=NetC8_1 Pin=U1-20
+Added Net: Name=NetC8_1
+Added Pin To Net: NetName=NetR7_2 Pin=R7-2
+Added Pin To Net: NetName=NetR7_2 Pin=U1-1
+Added Net: Name=NetR7_2
+Added Member To Class: ClassName=Audio Member=Component C8 Cap Pol3
+Added Member To Class: ClassName=Audio Member=Component C9 Cap Pol3
+Added Member To Class: ClassName=Audio Member=Component C10 Cap Pol3
+Added Member To Class: ClassName=Audio Member=Component C11 Cap Pol3
+Added Member To Class: ClassName=Audio Member=Component R7 Res Semi

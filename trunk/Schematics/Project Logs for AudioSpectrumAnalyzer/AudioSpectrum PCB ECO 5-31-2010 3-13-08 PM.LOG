@@ -1,0 +1,6 @@
+Added Component: Designator=U3(ZZ311)
+Added Pin To Net: NetName=GND Pin=U3-1
+Added Pin To Net: NetName=SIVD Pin=U3-2
+Added Pin To Net: NetName=5V Pin=U3-3
+Added Pin To Net: NetName=SIVD Pin=U3-4
+Added Member To Class: ClassName=Audio Member=Component U3 REG1117-3.3
